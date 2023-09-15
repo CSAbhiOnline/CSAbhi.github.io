@@ -9,6 +9,9 @@ M3 Streamer- A lightweight,free app to watch any live m3u8 stream
 
 TeenHub- A free app to watch p#rn supported with bookmarking feature and 8 different content servers
 [Download TeenHub apk by CSAbhi](https://github.com/CSAbhiOnline/Teenhub_updates/releases/download/1.3/teenhub_v1.3.apk)
+
+IPLGuru- App to predict IPL matches winner using machine learning and AI, returned 92% accuracy in IPL 2023
+[Download IPLGuru apk by CSAbhi](https://drive.google.com/file/d/1flAveeExAU536qDgDAKheWzm4nkWRwPJ/view?usp=drive_link)
 ### Support or Contact
 
 Having trouble with Apps? Contact us on tdwthor@gmail.com and we’ll help you sort it out.
