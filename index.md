@@ -12,6 +12,9 @@ TeenHub- A free app to watch p#rn supported with bookmarking feature and 8 diffe
 
 IPLGuru- App to predict IPL matches winner using machine learning and AI, returned 92% accuracy in IPL 2023
 [Download IPLGuru apk by CSAbhi](https://drive.google.com/file/d/1flAveeExAU536qDgDAKheWzm4nkWRwPJ/view?usp=drive_link)
+
+Wallpaper Arena- Get free 100m+ high quality HD wallpapers in one place!!
+[Download Wallpaper Arena apk by CSAbhi](https://github.com/CSAbhiOnline/Wallpaper_Arena/releases/download/1.0/app-release.apk)
 ### Support or Contact
 
 Having trouble with Apps? Contact us on tdwthor@gmail.com and we’ll help you sort it out.
